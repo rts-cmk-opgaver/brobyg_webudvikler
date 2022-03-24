@@ -27,6 +27,10 @@ link: https://www.qrcode-monkey.com/
 
 Vi fandt billeder af os selv til profilkortet på internettet (facebook e.l.), eller tog nye med telefonerne og fik dem sendt som email, så de kunne downloades fra computerne.
 
+# Reflektioner
+Jeg har tænkt på om det kunne være en idé at lave links til 'sådan-kommer-du-igen-med-at-kode' resourcer frem for sociale profiler.
+Jeg har også tænkt på om click eventet skulle erstatte profilbilleder i x sek. med en QR kode som mor, far og venner så kunne scanne i stedet for den løsning med et billede på telefonen som har været tilgangen sidst.
+
 # Spørgeundersøgelse
 Husk at brobyg eleverne skal udfylde en spørgeundersøgelse inden forløbet afsluttes.
 
