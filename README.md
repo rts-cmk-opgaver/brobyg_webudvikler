@@ -21,8 +21,10 @@ Efter projekterne blev lagt på internettet med Netlify DROP, lavede vi en QR ko
 
 link: https://www.qrcode-monkey.com/
 
+Vi fandt billeder af os selv til profilkortet på internettet (facebook e.l.), eller tog nye med telefonerne og fik dem sendt som email, så de kunne downloades fra computerne.
+
 # Spørgeundersøgelse
-Husk at brobyg eleverne skal udfylde en spørgeundersøgelse inden forløbet afsluttes
+Husk at brobyg eleverne skal udfylde en spørgeundersøgelse inden forløbet afsluttes.
 
 https://roskildetekniskeskole.sharepoint.com/sites/personlig/Evaluering/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2Fpersonlig%2FEvaluering%2FDelte%20dokumenter%2FBrobygning%20og%20introkurser&viewid=fddd4212%2Dc3ca%2D46da%2D8f0b%2D66441bade03d&CT=1648125974065&OR=OWA%2DNT&CID=98418185%2D6334%2Dee37%2Db5c2%2Dad0daaaf0271
 
