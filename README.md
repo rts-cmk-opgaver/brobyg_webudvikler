@@ -14,6 +14,9 @@ Animate.style (https://animate.style/)
 
 Netlify (Drop) 
 
+# Projekt
+Et animerede digitalt visitkort, som linker til sociale profiler på internettet (tiktok, instagram, youtube etc.)
+
 # Erfaringer
 Start med at få eleverne til at oprette en konto på Netlify, men få dem til at gøre det fra deres telefoner, for at undgå at blive udelukket pga. for mange forespørgsler til tjenesten fra samme IP adresse. Lad efterfølgende eleverne logge ind på netlify løbende, af samme grund som tidligere beskrevet.
 
