@@ -1,9 +1,15 @@
 # Brobyg Stack ;)
-HTML 
+
+HTML
+
 CSS
+
 FontAwesome (https://cdnjs.com/libraries/font-awesome)
-Google Fonts 
+
+Google Fonts
+
 Animate.style (https://animate.style/)
+
 Netlify (Drop) 
 
 # Erfaringer
