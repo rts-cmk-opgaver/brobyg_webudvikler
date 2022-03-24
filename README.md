@@ -13,9 +13,9 @@ Animate.style (https://animate.style/)
 Netlify (Drop) 
 
 # Erfaringer
-Start med at få eleverne til at oprette en konto på Netlify, men få dem til at gøre det fra deres telefoner, for at undgå at blive udelukket pga. for mange forespørgsler fra samme IP adresse. Lad eleverne logge ind løbende, igen for at undgå for mange samtidige forespørgsler.
+Start med at få eleverne til at oprette en konto på Netlify, men få dem til at gøre det fra deres telefoner, for at undgå at blive udelukket pga. for mange forespørgsler til tjenesten fra samme IP adresse. Lad efterfølgende eleverne logge ind på netlify løbende, af samme grund som tidligere beskrevet.
 
-Efter projekterne blev lagt ud med Netlify DROP, fik vi lavet en QR kode, så det var nemt at åbne webadresse/projekt i en browser. Eleverne tog også billeder af deres QR koder, som vi talte om at de kunne få mor og far til at scanne når de kom hjem og gerne vil vise hvad de havde lavet.
+Efter projekterne blev lagt på internettet med Netlify DROP, lavede vi en QR kode, så det efterfølgende var nemt at åbne webadressen/projekt i en browser på telefonen. Eleverne tog også billeder af deres QR koder, som vi talte om, at mor og far kunne prøve at scanne når de kom hjem og gerne vil vise hvad de havde fået lavet.
 
 link: https://www.qrcode-monkey.com/
 
