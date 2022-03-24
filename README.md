@@ -4,6 +4,8 @@ HTML
 
 CSS
 
+JavaScript 
+
 FontAwesome (https://cdnjs.com/libraries/font-awesome)
 
 Google Fonts
