@@ -6,6 +6,8 @@ CSS
 
 JavaScript 
 
+SVGBackgrounds (https://www.svgbackgrounds.com/)
+
 FontAwesome (https://cdnjs.com/libraries/font-awesome)
 
 Google Fonts
