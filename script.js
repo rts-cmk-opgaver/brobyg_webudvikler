@@ -1,4 +1,4 @@
-  document.body.addEventListener("click", function () {
+  document.body.addEventListener("click", function() {
     
     document.body.classList.add("animate__tada");
     
